@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Abdulaziz Omurakunov</h1>
 <h3 align="left">I'am a Junior Frontend Developer</h3>
-
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=282D3C" alt="Oops"/>
+ 
 - 🏫 Currently I'm studying in [Ala-Too International University](http://alatoo.edu.kg/#gsc.tab=0)
 
 - 🔭 Right now I'm working on my pet project called Family-Tree
@@ -9,12 +10,12 @@
 
 - 💬 You can ask me about **React, Redux Toolkit, Scss**
 
-- 📫 If you want to reach me **abdulazizomurakunov@gmail.com**
-
 - ⚡ Fun fact  **I'm really into some handmade crafts**
 
 - 🎨 Check my [**Pinterest**](https://www.pinterest.com/carpenter_artist/) 
  
+<hr/>
+<br/>
 
 >  General
 <table width='100%'>
@@ -117,11 +118,13 @@
     </td>
   </tr> 
 </table>
+<br/>
 
-<h3 align="left">✉️ Connect with me:</h3>
-- [Github](https://github.com/Omurakunov)
+<h3 align="left"> 📫 Connect with me:</h3>
 
+- 💻[Github](https://github.com/Omurakunov)
+- 📧[Telegram](https://t.me/Omurakunov)
+- 📷[Instagram](https://www.instagram.com/omurakkunov/)
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=Omurakunov&theme=dark" alt="omurakunov" /></p>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ffffff&icon_color=D65076&text_color=ffffff&bg_color=363945" alt="Oops"/>
