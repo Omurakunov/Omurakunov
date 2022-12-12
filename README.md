@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Abdulaziz Omurakunov</h1>
 <h3 align="left">I'am a Junior Frontend Developer</h3>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=282D3C" alt="Oops"/>
- 
+
 - 🏫 Currently I'm studying in [Ala-Too International University](http://alatoo.edu.kg/#gsc.tab=0)
 
 - 🔭 Right now I'm working on my pet project called Family-Tree
@@ -13,6 +12,8 @@
 - ⚡ Fun fact  **I'm really into some handmade crafts**
 
 - 🎨 Check my [**Pinterest**](https://www.pinterest.com/carpenter_artist/) 
+ 
+
  
 <hr/>
 <br/>
@@ -127,4 +128,7 @@
 - 📷[Instagram](https://www.instagram.com/omurakkunov/)
 
 <br/>
+<hr/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=282D3C" alt="Oops"/>
+
 
