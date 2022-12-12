@@ -1,3 +1,4 @@
+![](https://github.com/user/banner.png)
 <h1 align="left">Hi 👋, I'm Abdulaziz Omurakunov</h1>
 <h3 align="left">I'am a Junior Frontend Developer</h3>
 
