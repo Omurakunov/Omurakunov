@@ -129,6 +129,6 @@
 
 <br/>
 <hr/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=282D3C" alt="Oops"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Omurakunov&&show_icons=true&title_color=ff6600&icon_color=ff6600&text_color=ffffff&bg_color=0f0f0f" alt="Oops"/>
 
