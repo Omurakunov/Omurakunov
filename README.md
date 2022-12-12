@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png)
+![](https://github.com/Omurakunov/Omurakunov/blob/main/banner%20(1).png)
 <h1 align="left">Hi 👋, I'm Abdulaziz Omurakunov</h1>
 <h3 align="left">I'am a Junior Frontend Developer</h3>
 
